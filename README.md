@@ -14,4 +14,4 @@ For numbers which are multiples of both 3 and 5, print "FizzBuzz" instead of the
 
 https://github.com/beatrizralves/FizzBuzz/blob/main/fizzbuzz.c
 
-## Mips
+## Java
